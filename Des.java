@@ -40,8 +40,8 @@ public class Des {
 
     public static void main(String[] args) {
 
-        String pt = "0001001000110100010101100111100010011010101111001101111011110001";
-        String key = "0001001100110100010101110111100110011011101111001101111111110001";
+        String pt  = "1100110011001100110011001100110011001100110011001100110011001100";
+        String key = "1010101010101010101010101010101010101010101010101010101010101010";
 
         String ip = permute(pt,IP);
 
@@ -57,7 +57,6 @@ public class Des {
         String combined = R + L;
 
         String cipher = permute(combined,FP);
-
         System.out.println("Cipher Text: "+cipher);
     }
 }
