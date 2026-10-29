@@ -1,0 +1,55 @@
+Compiler Lab Assignment — File Index
+
+C file handling (1–25):
+01. q01Open.c
+02. q02ReadChar.c
+03. q03ReadLine.c
+04. q04WriteText.c
+05. q05WriteInput.c
+06. q06CopyFile.c
+07. q07CountChar.c
+08. q08CountLine.c
+09. q09CountWord.c
+10. q10CountVowel.c
+11. q11AppendLine.c
+12. q12SumInt.c
+13. q13TenNumber.c
+14. q14UpperFile.c
+15. q15LineNumber.c
+16. q16CountTypes.c
+17. q17Largest.c
+18. q18EvenFile.c
+19. q19MergeFile.c
+20. q20SearchWord.c
+21. q21DeleteFile.c
+22. q22RenameFile.c
+23. q23StudentFile.c
+24. q24EmptyFile.c
+25. q25ReverseFile.c
+
+Lex/Flex (26–50):
+26. q26Number.l
+27. q27VowelCons.l
+28. q28LineWordChar.l
+29. q29ToUpper.l
+30. q30ToLower.l
+31. q31Keyword.l
+32. q32Identifier.l
+33. q33NumberType.l
+34. q34LineNum.l
+35. q35RemoveComment.l
+36. q36OddEven.l
+37. q37Armstrong.l
+38. q38ToBinary.l
+39. q39Prime.l
+40. q40Palindrome.l
+41. q41CountDigit.l
+42. q42Arithmetic.l
+43. q43Relational.l
+44. q44PosNeg.l
+45. q45Email.l
+46. q46CountWord.l
+47. q47CleanSpace.l
+48. q48HelloWelcome.l
+49. q49CountThe.l
+50. q50Directive.l
